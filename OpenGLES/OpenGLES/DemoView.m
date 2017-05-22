@@ -51,6 +51,7 @@
     glGenBuffers(1, &_colorRenderBuffer);
     glBindRenderbuffer(GL_RENDERBUFFER, _colorRenderBuffer);
     
+    // 注释用 instrument 调试
     [_context renderbufferStorage:GL_RENDERBUFFER fromDrawable:(CAEAGLLayer *)self.layer];
 }
 
@@ -60,6 +61,7 @@
     glBindFramebuffer(GL_FRAMEBUFFER, frameBuffer);
     
     // 将 colorRenderBuffer 依附在 frameBuffer 的 GL_COLOR_ATTACHMENT0 位置上
+    // 注释用 instrument 调试
     glFramebufferRenderbuffer(GL_FRAMEBUFFER, GL_COLOR_ATTACHMENT0, GL_RENDERBUFFER, _colorRenderBuffer);
 }
 

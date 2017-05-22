@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0EAF2DE1E1CD51292CD45274CAD004A7A932429A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EE3BFA25D40DF022AAE39675BCCFC5BE642CE4D0" : 9223372036854775807,
+    "0EAF2DE1E1CD51292CD45274CAD004A7A932429A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D0C32BA6-2AAF-4A35-BDE0-D368C33F1981",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EE3BFA25D40DF022AAE39675BCCFC5BE642CE4D0" : "",
+    "0EAF2DE1E1CD51292CD45274CAD004A7A932429A" : "MISOpenGLESDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenGLES",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenGLES\/OpenGLES.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pairmu\/MISOpenGLESDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0EAF2DE1E1CD51292CD45274CAD004A7A932429A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pairmu\/MISAlertView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE3BFA25D40DF022AAE39675BCCFC5BE642CE4D0"
+    }
+  ]
+}

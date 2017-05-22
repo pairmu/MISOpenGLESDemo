@@ -115,6 +115,7 @@
 				TargetAttributes = {
 					C41857511ED2EADC00561956 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = SW9TH7TPPT;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -280,9 +281,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SW9TH7TPPT;
 				INFOPLIST_FILE = OpenGLES/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = chengpeng.OpenGLES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chengpeng;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -291,9 +293,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SW9TH7TPPT;
 				INFOPLIST_FILE = OpenGLES/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = chengpeng.OpenGLES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chengpeng;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -317,6 +320,7 @@
 				C418576B1ED2EADC00561956 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
